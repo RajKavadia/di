@@ -1,6 +1,6 @@
-name: di
+name: di_manager
 description: "A new Flutter package project."
-version: 0.0.1
+version: 3.3.11
 homepage: "https://github.com/RajKavadia/di.git"
 repository: "https://github.com/RajKavadia/di.git"
 
