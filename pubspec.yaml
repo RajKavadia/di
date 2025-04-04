@@ -1,6 +1,8 @@
 name: di_manager
-description: "A new Flutter package project."
+description: "A Simple DI Manager."
 version: 3.3.12
+license: MIT
+
 homepage: "https://github.com/RajKavadia/di.git"
 repository: "https://github.com/RajKavadia/di.git"
 
